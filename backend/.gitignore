@@ -5,4 +5,5 @@ logs
 *.log
 dist
 build
-uploads
+uploads/*
+!uploads/.gitkeep

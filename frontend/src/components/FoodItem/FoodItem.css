@@ -6,7 +6,7 @@
     transition: 0.3s;
     animation: fadeIn 1s;
 
-
+background-color: rgb(179, 216, 216);
 }
 .food-item-image{
     width: 100%;

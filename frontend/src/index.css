@@ -11,6 +11,7 @@
 }
 body{
   min-height: 100vh;
+  background-color: rgb(2, 201, 201);
 }
 a{
   text-decoration: none;
@@ -19,6 +20,7 @@ a{
 .app{
   width:80%;
   margin:0 auto;
+  
 }
 
 @keyframes fadeIn {
